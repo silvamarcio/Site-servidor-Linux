@@ -54,3 +54,13 @@ p{
 .contact p{
    font-size: 18px;
 }
+th {
+   background-color: rgb(162, 170, 163);
+   color: white;
+ }
+.table{
+   padding: 15px;
+   border: 1px solid black;
+  
+    
+}
